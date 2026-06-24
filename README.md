@@ -72,7 +72,7 @@ Hospital-Management-System
 ### Clone Repository
 
 ```bash
-git clone <repo-link>
+git clone https://github.com/husnajuman5/Hospital-Management-System.git
 ```
 
 ### Import Database
